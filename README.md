@@ -8,7 +8,6 @@ Sou desenvolvedor de sistemas, apaixonado por tecnologia e automação. Atualmen
 <div>  
   <a href="https://www.linkedin.com/in/gabriel-zanelato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.credly.com/users/gabriel-zanelato" target="_blank"><img src="https://github.com/Gabriel-Zanelato/Gabriel-Zanelato/blob/main/imagens/Frame%201.png?raw=true" target="_blank"></a> 
-  <a href="mailto:contato.gabriel.zanelato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 
