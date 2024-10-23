@@ -1,4 +1,5 @@
-##Olá, sou Gabriel Zanelato
+
+## Olá, eu sou Gabriel Zanelato!
 
 Sou desenvolvedor de sistemas, apaixonado por tecnologia e automação. Atualmente, estou cursando Desenvolvimento de Sistemas na Fatec Americana e buscando sempre aprender novas linguagens e ferramentas. Tenho experiência com diversas tecnologias, desde desenvolvimento de aplicativos mobile até automação com sistemas embarcados.
 
