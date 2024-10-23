@@ -4,7 +4,7 @@
 Sou desenvolvedor de sistemas, apaixonado por tecnologia e automação. Atualmente, estou cursando Desenvolvimento de Sistemas na Fatec Americana e buscando sempre aprender novas linguagens e ferramentas. Tenho experiência com diversas tecnologias, desde desenvolvimento de aplicativos mobile até automação com sistemas embarcados.
 
 
-## Entre em contato comigo:
+## Minhas Redes:
 <div>  
   <a href="https://www.linkedin.com/in/gabriel-zanelato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.credly.com/users/gabriel-zanelato" target="_blank"><img src="https://github.com/Gabriel-Zanelato/Gabriel-Zanelato/blob/main/imagens/Frame%201.png?raw=true" target="_blank"></a> 
